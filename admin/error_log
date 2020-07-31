@@ -1,0 +1,2 @@
+[01-Apr-2019 14:49:09 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/marianai/new.geo-bg.eu/admin/delete.php:8) in /home/marianai/new.geo-bg.eu/admin/delete.php on line 13
+[01-Apr-2019 14:51:13 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/marianai/new.geo-bg.eu/admin/delete.php:17) in /home/marianai/new.geo-bg.eu/admin/delete.php on line 48
